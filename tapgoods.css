@@ -1,0 +1,169 @@
+body {
+    font-family: Arial;
+    font-size: 14px;
+    max-width: auto;
+}
+
+.container {
+
+    position: relative;
+    max-width: auto;
+
+
+}
+
+.wrapper {
+    overflow: auto;
+    margin: 0 auto;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 100px;
+    padding-bottom: 157px;
+    background-image: url(../TapGoods/tapGoodsPhotos/bg.jpg);
+    background-size: 100%;
+    background-position-y: 30%;
+    background-repeat: no-repeat;
+}
+
+.center-page {
+    background-color: #0e2c44;
+    /* position: absolute; */
+    width: auto;
+    overflow: auto;
+    /* padding-left: 305px; */
+    padding-bottom: 600px;
+}
+
+.center-page1 h4 {
+
+    position: absolute;
+    text-align: center;
+    top: 759px;
+    color: #2b89d1;
+    left: 597px;
+}
+
+.center-content {
+    overflow: auto;
+    position: absolute;
+    text-justify: inter-cluster;
+    top: 500px;
+    left: 300px;
+}
+
+.cc-title {
+    width: 300px;
+    overflow: auto;
+    float: left;
+    margin: 10px;
+}
+
+.cc-title h4 {
+    color: #ffffff;
+    font-size: 19px;
+}
+
+.cc-title p {
+    color: #cbe9ff;
+
+}
+
+.spacer {
+    width: 43px;
+    height: 2px;
+    background-color:#278adb;
+}
+
+
+.box-info {
+    width: 450px;
+    height: 89px;
+    border: 1px;
+    background-color: #278adb;
+    text-align: center;
+    margin: 10px;
+    display: flexbox;
+    justify-content: center;
+    position: relative;
+    left: 512px;
+    top: -55px;
+}
+
+.bottom-center h4 {
+    color: white;
+    text-align: left;
+    position: relative;
+    left: 32px;
+    bottom: 15px;
+}
+
+
+
+
+.bottom-page {
+    background: #071927;
+    margin: 0 auto;
+    padding: 100px;
+}
+
+.tapgoodsphoto {
+    /* padding: 100px; */
+    position: absolute;
+    top: 110px;
+    left: 400px;
+    width: 48%;
+    /* max-width: 960px; */
+    overflow: auto;
+
+
+}
+
+.button-tap {
+    text-emphasis: none;
+    left: 511px;
+    position: absolute;
+    top: 1096px;
+
+}
+
+.button {
+    background-color: #278adb;
+    margin: 10px;
+    text-decoration: none;
+    border: none;
+    color: #fff;
+    padding: 4px 49px;
+
+}
+
+.bottom-buttons {
+    display: flex;
+    flex-direction: column;
+    float: right;
+    position: relative;
+    top: -40px;
+}
+
+.button1 {
+    background-color: #278adb;
+    margin: 5px;
+    padding: 4px 49px;
+    border: none;
+    color: #fff;
+
+}
+
+.round-div {
+
+    height: 61px;
+    width: 61px;
+    float: left;
+    position: relative;
+    background-color: #fff;
+    border-radius: 50%;
+    /* border: solid 3px; */
+    display: inline-block;
+    top: 14px;
+    left: 23px;
+
+}
